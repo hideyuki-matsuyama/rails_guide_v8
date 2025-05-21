@@ -1,4 +1,4 @@
-<img alt="Build" src="https://github.com/hideyuki-matsuyama/rails_guide_v8/workflows/Build/badge.svg">
+[![CI](https://github.com/hideyuki-matsuyama/rails_guide_v8/actions/workflows/ci.yml/badge.svg)](https://github.com/hideyuki-matsuyama/rails_guide_v8/actions/workflows/ci.yml)
 
 # 何コレ
 
