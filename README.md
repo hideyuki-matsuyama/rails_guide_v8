@@ -1,3 +1,5 @@
+<img alt="Build" src="https://github.com/hideyuki-matsuyama/rails_guide_v8/workflows/Build/badge.svg">
+
 # 何コレ
 
 [Rails ガイド v8.0](https://railsguides.jp/v8.0/getting_started.html)のハンズオンです。
