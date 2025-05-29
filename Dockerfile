@@ -1,5 +1,8 @@
 FROM ruby:3.2
-RUN apt-get update -qq && apt-get install -y nodejs yarn sqlite3
+RUN apt-get update -qq && apt-get install -y \
+    nodejs yarn sqlite3 \
+    libvips-dev \
+    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 COPY . .
